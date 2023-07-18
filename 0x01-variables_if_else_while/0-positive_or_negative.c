@@ -1,11 +1,11 @@
 #include<stdlib.h>
 #include<time.h>
 #include<stdio.h>
-/*more headers goes there*/
-/* main - A program that prints positive ,zero or negative values of */
-/* Return : (0)*/
+/**
+ * main - Entry Point
+ * Return : Always 0 (Success)
+*/
 int main(void)
-
 {
 	int n;
 
