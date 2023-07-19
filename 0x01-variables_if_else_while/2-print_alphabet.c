@@ -2,8 +2,9 @@
 #include<stdlib.h>
 #include<main.h>
 /**
- * main - Print the Alphabet
- * Return Always 0 (Success)
+ * main - Entry Point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 int main(char alp, int i)
