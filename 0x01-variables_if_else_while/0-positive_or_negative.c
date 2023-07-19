@@ -1,10 +1,12 @@
 #include<stdlib.h>
 #include<time.h>
 /**
- * main - Entry Point
- * Return : Always 0 (Success)
+ * main - This program prints positive numbers, negative numbers and zero
+ *
+ * Return: Always 0 (Success)
 */
 #include<stdio.h>
+
 int main(void)
 {
 	int n;
