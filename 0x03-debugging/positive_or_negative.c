@@ -1,5 +1,6 @@
 #include<stdlib.h>
 #include<time.h>
+#include"main.h"
 /**
  * positive_or_negative - assign a random number to the variable i
  * @i : integer
